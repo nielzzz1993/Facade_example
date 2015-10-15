@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="FacadeDemo.SportsTrackerApp" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Apps\SportsTrackerApp.cs</FileName>
+      <HashCode>AAAQAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.GPSController" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controllers\GPSController.cs</FileName>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.MobileDataController" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Controllers\MobileDataController.cs</FileName>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.MusicController" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controllers\MusicController.cs</FileName>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.WifiController" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controllers\WifiController.cs</FileName>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.Program" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeDemo.Facade.MyJoggingFacade" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Facade\MyJoggingFacade.cs</FileName>
+      <HashCode>AABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACgQAAAAgEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
